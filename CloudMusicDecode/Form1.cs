@@ -46,7 +46,6 @@ namespace CloudMusicDecode
             }
 
         }
-
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if(checkBox1.Checked == true)
@@ -64,7 +63,6 @@ namespace CloudMusicDecode
                 outPath.Enabled = true;
             }
         }
-
         private void startButton_Click(object sender, EventArgs e)
         {
             
