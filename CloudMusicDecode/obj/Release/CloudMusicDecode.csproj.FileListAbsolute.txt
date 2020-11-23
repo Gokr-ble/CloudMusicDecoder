@@ -1,0 +1,10 @@
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\bin\Release\CloudMusicDecode.exe.config
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\bin\Release\CloudMusicDecode.exe
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\bin\Release\CloudMusicDecode.pdb
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.Form1.resources
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.exe
+C:\Users\Thinkpad\source\repos\CloudMusicDecode\CloudMusicDecode\obj\Release\CloudMusicDecode.pdb
